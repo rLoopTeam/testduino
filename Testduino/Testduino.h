@@ -1,5 +1,5 @@
-#ifndef Testduino_h
-#define Testduino_h
+#ifndef TestduinoClass_h
+#define TestduinoClass_h
 
 #include "Arduino.h"
 
